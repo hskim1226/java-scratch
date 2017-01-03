@@ -5,9 +5,9 @@ package day02;
  */
 public class Algebra {
 
-    public int subtract(int a, int b)
+    public int subtract(int m, int n)
     {
-        return a - b;
+        return m - n;
     }
 
 }
