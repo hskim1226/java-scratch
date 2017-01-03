@@ -2,6 +2,10 @@ package day02;
 
 import org.junit.Test;
 
+import static org.hamcrest.core.Is.is;
+import static org.hamcrest.core.IsEqual.equalTo;
+import static org.junit.Assert.assertThat;
+
 /**
  * Created by apex on 2017-01-03.
  */
