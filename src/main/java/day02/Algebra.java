@@ -5,14 +5,12 @@ package day02;
  */
 public class Algebra {
 
-    public int subtract(int c, int d)
-    {
+    public int subtract(int c, int d) {
         return c - d;
     }
 
-    public int add(int m, int n)
-    {
-        return m + n ;
+    public int add(int c, int d) {
+        return c + d;
     }
 
 }
